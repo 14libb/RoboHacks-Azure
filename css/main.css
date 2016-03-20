@@ -118,7 +118,9 @@ p {
     padding: 0px 0px 10px 100px; 
 }
 
-
+p .img {
+    text-align: center;
+}
 
 
 
