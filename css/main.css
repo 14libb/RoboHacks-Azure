@@ -94,10 +94,11 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-
+body {
+    font-family: "Geneva";
+}
 
 h1 {
-    font-family: "Geneva";
     font-weight: 700;
     font-size: 100px;
     text-align: center;
